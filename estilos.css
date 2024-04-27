@@ -57,6 +57,10 @@ input[type="checkbox"]:focus {
   background-color: var(--marrom-escuro);
 }
 
+.bg-padrao {
+  background-color: var(--marrom-claro);
+}
+
 [data-bs-theme="dark"] {
   color: white;
   .nav-link, .card-body, .offcanvas, .btn {
